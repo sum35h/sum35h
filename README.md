@@ -22,4 +22,4 @@
     <li>ORM: Django ORM, sqlAlchemy
     </ul>
 </ul>
-[<img src="https://https://novatorem-nine-chi.vercel.app/api/spotify-playing" alt="sum35sh Spotify Playing" width="350" />]
+[<img src="https://novatorem-nine-chi.vercel.app/api/spotify-playing" alt="sum35sh Spotify Playing" width="350" />]
