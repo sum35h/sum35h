@@ -1,9 +1,5 @@
-### Hi there 👋
-
-<!--
-**sum35h/sum35h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Sumesht</h1>
-<h3 align="center">A Python enthusiast</h3>
+<h3 align="center">A Python Enthusiast and Developer</h3>
 
 
 - 🔭 I’m currently working on a few Django projects for my portfolio 
