@@ -22,5 +22,12 @@
     <li>ORM: Django ORM, sqlAlchemy
     </ul>
 </ul>
+<table width="100%"> 
+  <tr>
+  <td width="50%">
+      
+&nbsp; <br> [![Spotify](https://novatorem-nine-chi.vercel.app/api/spotify)](https://open.spotify.com/user/317bknmccjsulewan4gso5mt53wq)
 
-[![Spotify](https://novatorem-nine-chi.vercel.app/api/spotify)](https://open.spotify.com/user/317bknmccjsulewan4gso5mt53wq)
+
+  </td>
+  <td width="50%">
