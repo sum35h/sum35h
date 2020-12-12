@@ -22,4 +22,5 @@
     <li>ORM: Django ORM, sqlAlchemy
     </ul>
 </ul>
-[![Spotify](https://novatorem.sum35sh.vercel.app/p/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[<img src="https://novatorem.sum35sh.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />]
+
